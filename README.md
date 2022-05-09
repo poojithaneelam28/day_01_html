@@ -1,4 +1,4 @@
-# day_01_html introduction
+01_day_html introduction
 
 html stands for hyper text markup language.<br>
 
